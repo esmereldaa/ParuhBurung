@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pipih</folder>
+	<filename>Pipih (64).jpg</filename>
+	<path>D:\Dataset\Paruh_Burung\Pipih\Pipih (64).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>933</width>
+		<height>933</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mencari Makan di Lumpur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>437</xmin>
+			<ymin>175</ymin>
+			<xmax>548</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

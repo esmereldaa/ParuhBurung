@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Runcing</folder>
+	<filename>Runcing (29).jpg</filename>
+	<path>D:\Dataset\Paruh_Burung\Runcing\Runcing (29).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>933</width>
+		<height>933</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pengoyak Daging</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>424</xmin>
+			<ymin>480</ymin>
+			<xmax>459</xmax>
+			<ymax>530</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Berkantung</folder>
+	<filename>Berkantung (43).jpg</filename>
+	<path>D:\Dataset\Paruh_Burung\Berkantung\Berkantung (43).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>334</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kantung untuk menangkap Ikan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>110</ymin>
+			<xmax>192</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>
